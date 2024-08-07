@@ -1,0 +1,25 @@
+﻿Cosmina C (29.7.2024, 10:02:20): Guten Tag. Mein Name ist Cosmina. Wie kann ich dir behilflich sein? 
+Armin (29.7.2024, 10:03:58): Guten Tag, seit dem ich update von sonos ace gemacht habe höre ich mehr Musik auf linke Seite und weniger aus reche kommt klang und irritiert mich dass wahnsinnig 
+Cosmina C (29.7.2024, 10:06:50): Schönes Treffen Sie, Armin, ich hoffe, Sie machen es gut! Ich werde mein Bestes geben, um Ihnen dabei zu helfen! Nur um sicherzustellen, ob ich richtig verstehe, kann die Audiowiedergabe mehr vom linken Lautsprecher als von rechts, in einem Stereopaar oder einem Surround-System gehört werden? 
+Armin (29.7.2024, 10:10:05): Richtig Audiowiedergabe  Kamm deutlich vom linkem und geht um meine Kopfhörer sonos Ace 
+Cosmina C (29.7.2024, 10:10:50): Dieses Problem tritt also auf dem Sonos Ace auf, nicht auf Sonos-Lautsprechern, richtig? 
+Armin (29.7.2024, 10:11:00): Richtig 
+Cosmina C (29.7.2024, 10:11:47): Ist das Headset zufällig derzeit in der Sonos-App registriert? 
+Armin (29.7.2024, 10:11:58): Ja ist 
+Cosmina C (29.7.2024, 10:14:00): Können wir bitte überprüfen, ob für das Headset in der App Systemupdates verfügbar sind?
+ 1. Öffnen Sie die Sonos-App für iOS oder Android.
+ 2. Navigieren Sie zum Menü Einstellungen und wählen Sie Ihr Sonos Ace im Abschnitt Kopfhörer aus.
+ 3. Wählen Sie unter Über Software-Updates aus.
+ 4. Wählen Sie Nach Updates suchen aus. 
+Armin (29.7.2024, 10:18:09): Sonos Ace ist auf dem aktuellen Stand. 
+Cosmina C (29.7.2024, 10:19:23): Kann ich bitte die Farbe kennen, die Sie derzeit auf der Status-LED des ACE sehen? 
+Armin (29.7.2024, 10:21:17): Leutet blau 
+Cosmina C (29.7.2024, 10:32:41): Kann ich bitte auch etwa wissen, wann dieses Problem zuerst aufgetreten ist? 
+Cosmina C (29.7.2024, 10:36:21): Wir haben seit einiger Zeit nichts mehr von Ihnen gehört. Sind Sie noch mit diesem Chat verbunden, Armin? 
+Cosmina C (29.7.2024, 10:43:22): Ich möchte Sie darüber informieren, dass die Chat-Sitzung automatisch beendet wird, wenn ich in den nächsten 2 Minuten keine Antwort von Ihnen erhalte. Bitte notieren Sie Ihre Fallnummer 06626574. Wenn Sie uns kontaktieren müssen, um weitere Hilfe zu erhalten, können Sie diese Nummer angeben, um dort weiterzumachen, wo wir aufgehört haben. Sie können auch ein Protokoll dieses Chats herunterladen, sobald die Sitzung beendet ist. 
+Armin (29.7.2024, 10:43:47): Problem habe ich seit dem ich den letzten update gemacht habe 
+Armin (29.7.2024, 10:44:24): Sorry bin auf der Arbeit könnte nicht schreiben, jetzt bin da. Entschuldigung 
+Cosmina C (29.7.2024, 10:47:13): Keine Sorge! Hören Sie zufällig auch einen pulsierenden oder unerwünschten Ton in einem der Kopfhörer? 
+Armin (29.7.2024, 10:49:05): Unerwünschte 
+Cosmina C (29.7.2024, 10:52:06): Vielen Dank für die Information. Wann tritt der unerwünschte Ton auf? Wenn es stumm ist, während der Sprachanrufe, der Musikwiedergabe, anderen Anwendungen? Wird es mit verschiedenen Inhalten besser oder schlechter? 
+Armin (29.7.2024, 10:56:19): Bei musikwidergabe 
